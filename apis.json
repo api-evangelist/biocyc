@@ -1,0 +1,56 @@
+{
+    "name": "BioCyc",
+    "description": "EcoCyc describes the genome, metabolic pathways, and regulatory network of <i>Escherichia coli<\/i> and provides extensive bioinformatics tools.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1310-biocyc.jpg",
+    "tags": [
+        "api provider",
+        "bacteria",
+        "biology",
+        "data provider",
+        "germany",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/biocyc\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BioCyc",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1310-biocyc.jpg",
+            "humanURL": "https:\/\/ecocyc.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/biocyc-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/biocyc-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/biocycle"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BioCyc"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/ecocyc.org\/web-services.shtml"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/ecocyc.org\/"
+        }
+    ]
+}
